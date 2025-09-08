@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="find the index of the first occurence in a string">
-      <change afterPath="$PROJECT_DIR$/search insert position.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="search insert position">
+      <change afterPath="$PROJECT_DIR$/length of last word.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757276361140</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="search insert position">
+      <option name="closed" value="true" />
+      <created>1757353719206</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757353719206</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +160,7 @@
     <MESSAGE value="remove duplicates from sorted array" />
     <MESSAGE value="remove element" />
     <MESSAGE value="find the index of the first occurence in a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="find the index of the first occurence in a string" />
+    <MESSAGE value="search insert position" />
+    <option name="LAST_COMMIT_MESSAGE" value="search insert position" />
   </component>
 </project>
