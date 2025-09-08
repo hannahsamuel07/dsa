@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/das+practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_sum.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="find the index of the first occurence in a string">
+      <change afterPath="$PROJECT_DIR$/search insert position.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +23,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hannahsamuel07&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hannahsamuel07/dsa&quot;,
+    &quot;accountId&quot;: &quot;39a0f3c7-351a-4c05-9a46-7fde2bc63efd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="32ICfrYHYkJqg3j558gww5fkyv4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,6 +67,91 @@
       <option name="presentableId" value="Default" />
       <updated>1757098805986</updated>
     </task>
+    <task id="LOCAL-00001" summary="two_sum">
+      <option name="closed" value="true" />
+      <created>1757099002368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757099002368</updated>
+    </task>
+    <task id="LOCAL-00002" summary="palindrome number">
+      <option name="closed" value="true" />
+      <created>1757116597934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757116597934</updated>
+    </task>
+    <task id="LOCAL-00003" summary="roman to integer">
+      <option name="closed" value="true" />
+      <created>1757116676721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757116676721</updated>
+    </task>
+    <task id="LOCAL-00004" summary="longest common prefix">
+      <option name="closed" value="true" />
+      <created>1757199253434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757199253434</updated>
+    </task>
+    <task id="LOCAL-00005" summary="valid parantheses">
+      <option name="closed" value="true" />
+      <created>1757202799376</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757202799376</updated>
+    </task>
+    <task id="LOCAL-00006" summary="merge two sorted lists">
+      <option name="closed" value="true" />
+      <created>1757206482386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757206482386</updated>
+    </task>
+    <task id="LOCAL-00007" summary="remove duplicates from sorted array">
+      <option name="closed" value="true" />
+      <created>1757275370672</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757275370672</updated>
+    </task>
+    <task id="LOCAL-00008" summary="remove element">
+      <option name="closed" value="true" />
+      <created>1757276105998</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757276105998</updated>
+    </task>
+    <task id="LOCAL-00009" summary="find the index of the first occurence in a string">
+      <option name="closed" value="true" />
+      <created>1757276361140</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757276361140</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="two_sum" />
+    <MESSAGE value="palindrome number" />
+    <MESSAGE value="roman to integer" />
+    <MESSAGE value="longest common prefix" />
+    <MESSAGE value="valid parantheses" />
+    <MESSAGE value="merge two sorted lists" />
+    <MESSAGE value="remove duplicates from sorted array" />
+    <MESSAGE value="remove element" />
+    <MESSAGE value="find the index of the first occurence in a string" />
+    <option name="LAST_COMMIT_MESSAGE" value="find the index of the first occurence in a string" />
   </component>
 </project>
