@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="add strings">
-      <change afterPath="$PROJECT_DIR$/add two numbers.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="add two numbers">
+      <change afterPath="$PROJECT_DIR$/length of longest substring without repeating characters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -286,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757636047277</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add two numbers">
+      <option name="closed" value="true" />
+      <created>1757700505340</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1757700505340</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -309,6 +317,7 @@
     <MESSAGE value="remove duplicates from sorted linked list" />
     <MESSAGE value="merge sorted array" />
     <MESSAGE value="add strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="add strings" />
+    <MESSAGE value="add two numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="add two numbers" />
   </component>
 </project>
