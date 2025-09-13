@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="longest palindrome substring">
-      <change afterPath="$PROJECT_DIR$/reverse integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="reverse integer">
+      <change afterPath="$PROJECT_DIR$/best time to buy and sell stock.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757799248820</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="reverse integer">
+      <option name="closed" value="true" />
+      <created>1757800671431</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1757800671431</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -345,6 +352,7 @@
     <MESSAGE value="length of longest substring without repeating characters" />
     <MESSAGE value="median of two sorted arrays" />
     <MESSAGE value="longest palindrome substring" />
-    <option name="LAST_COMMIT_MESSAGE" value="longest palindrome substring" />
+    <MESSAGE value="reverse integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse integer" />
   </component>
 </project>
