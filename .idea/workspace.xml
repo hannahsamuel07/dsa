@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="reverse integer">
-      <change afterPath="$PROJECT_DIR$/best time to buy and sell stock.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="best time to buy and sell stock">
+      <change afterPath="$PROJECT_DIR$/string to integer (atoi).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757800671431</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="best time to buy and sell stock">
+      <option name="closed" value="true" />
+      <created>1757803414200</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1757803414200</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -353,6 +362,7 @@
     <MESSAGE value="median of two sorted arrays" />
     <MESSAGE value="longest palindrome substring" />
     <MESSAGE value="reverse integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse integer" />
+    <MESSAGE value="best time to buy and sell stock" />
+    <option name="LAST_COMMIT_MESSAGE" value="best time to buy and sell stock" />
   </component>
 </project>
