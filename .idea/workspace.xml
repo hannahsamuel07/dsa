@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="add digits">
-      <change afterPath="$PROJECT_DIR$/move zeroes.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="move zeroes">
+      <change afterPath="$PROJECT_DIR$/letter combos of a phone number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -349,11 +350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1757884143817</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="move zeroes">
+      <option name="closed" value="true" />
+      <created>1757885444879</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1757885444879</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="roman to integer" />
     <MESSAGE value="longest common prefix" />
     <MESSAGE value="valid parantheses" />
     <MESSAGE value="merge two sorted lists" />
@@ -378,6 +386,7 @@
     <MESSAGE value="best time to buy and sell stock" />
     <MESSAGE value="string to integer (atoi)" />
     <MESSAGE value="add digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="add digits" />
+    <MESSAGE value="move zeroes" />
+    <option name="LAST_COMMIT_MESSAGE" value="move zeroes" />
   </component>
 </project>
