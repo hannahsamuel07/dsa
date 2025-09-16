@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="letter combos of a phone number">
-      <change afterPath="$PROJECT_DIR$/is power of four.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse string.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="reverse string">
+      <change afterPath="$PROJECT_DIR$/single number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -367,12 +366,26 @@
       <option name="project" value="LOCAL" />
       <updated>1757961811676</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="is power of four">
+      <option name="closed" value="true" />
+      <created>1757962664881</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1757962664881</updated>
+    </task>
+    <task id="LOCAL-00032" summary="reverse string">
+      <option name="closed" value="true" />
+      <created>1757962684551</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1757962684551</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="valid parantheses" />
-    <MESSAGE value="merge two sorted lists" />
     <MESSAGE value="remove duplicates from sorted array" />
     <MESSAGE value="remove element" />
     <MESSAGE value="find the index of the first occurence in a string" />
@@ -396,6 +409,8 @@
     <MESSAGE value="add digits" />
     <MESSAGE value="move zeroes" />
     <MESSAGE value="letter combos of a phone number" />
-    <option name="LAST_COMMIT_MESSAGE" value="letter combos of a phone number" />
+    <MESSAGE value="is power of four" />
+    <MESSAGE value="reverse string" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse string" />
   </component>
 </project>
