@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="single number">
-      <change afterPath="$PROJECT_DIR$/power of two.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="power of two">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -390,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1758061390432</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="power of two">
+      <option name="closed" value="true" />
+      <created>1758061869455</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1758061869455</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove element" />
     <MESSAGE value="find the index of the first occurence in a string" />
     <MESSAGE value="search insert position" />
     <MESSAGE value="length of last word" />
@@ -419,6 +425,7 @@
     <MESSAGE value="is power of four" />
     <MESSAGE value="reverse string" />
     <MESSAGE value="single number" />
-    <option name="LAST_COMMIT_MESSAGE" value="single number" />
+    <MESSAGE value="power of two" />
+    <option name="LAST_COMMIT_MESSAGE" value="power of two" />
   </component>
 </project>
