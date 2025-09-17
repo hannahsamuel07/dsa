@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="power of two">
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="contains duplicates">
+      <change afterPath="$PROJECT_DIR$/contains duplicate 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -397,11 +398,26 @@
       <option name="project" value="LOCAL" />
       <updated>1758061869455</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="power of two">
+      <option name="closed" value="true" />
+      <created>1758148699962</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1758148699962</updated>
+    </task>
+    <task id="LOCAL-00036" summary="contains duplicates">
+      <option name="closed" value="true" />
+      <created>1758148728155</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1758148728155</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="find the index of the first occurence in a string" />
     <MESSAGE value="search insert position" />
     <MESSAGE value="length of last word" />
     <MESSAGE value="plus one" />
@@ -426,6 +442,7 @@
     <MESSAGE value="reverse string" />
     <MESSAGE value="single number" />
     <MESSAGE value="power of two" />
-    <option name="LAST_COMMIT_MESSAGE" value="power of two" />
+    <MESSAGE value="contains duplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="contains duplicates" />
   </component>
 </project>
