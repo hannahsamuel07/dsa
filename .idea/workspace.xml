@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="contains duplicates">
-      <change afterPath="$PROJECT_DIR$/contains duplicate 2.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="contains duplicate 2">
+      <change afterPath="$PROJECT_DIR$/ransom note.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,15 +44,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.add strings.executor": "Run",
-    "Python.majority element.executor": "Run",
-    "Python.two_sum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.add strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.majority element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\reach\PycharmProjects\das+practice" />
@@ -414,11 +414,18 @@
       <option name="project" value="LOCAL" />
       <updated>1758148728155</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="contains duplicate 2">
+      <option name="closed" value="true" />
+      <created>1758150032300</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1758150032300</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="search insert position" />
     <MESSAGE value="length of last word" />
     <MESSAGE value="plus one" />
     <MESSAGE value="majority element.py" />
@@ -443,6 +450,7 @@
     <MESSAGE value="single number" />
     <MESSAGE value="power of two" />
     <MESSAGE value="contains duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="contains duplicates" />
+    <MESSAGE value="contains duplicate 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="contains duplicate 2" />
   </component>
 </project>
