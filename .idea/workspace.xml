@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="keyboard row">
-      <change afterPath="$PROJECT_DIR$/student attendance record I.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="student attendance record I">
+      <change afterPath="$PROJECT_DIR$/power of three.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -461,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1758322980126</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="student attendance record I">
+      <option name="closed" value="true" />
+      <created>1758323372373</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1758323372373</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sqrt(x)" />
     <MESSAGE value="remove duplicates from sorted linked list" />
     <MESSAGE value="merge sorted array" />
     <MESSAGE value="add strings" />
@@ -490,6 +498,7 @@
     <MESSAGE value="find the difference" />
     <MESSAGE value="distribute candies" />
     <MESSAGE value="keyboard row" />
-    <option name="LAST_COMMIT_MESSAGE" value="keyboard row" />
+    <MESSAGE value="student attendance record I" />
+    <option name="LAST_COMMIT_MESSAGE" value="student attendance record I" />
   </component>
 </project>
