@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="reverse linked list" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="fizz buzz">
+      <change afterPath="$PROJECT_DIR$/third maximum number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,14 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757098805986</updated>
-    </task>
-    <task id="LOCAL-00001" summary="two_sum">
-      <option name="closed" value="true" />
-      <created>1757099002368</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1757099002368</updated>
     </task>
     <task id="LOCAL-00002" summary="palindrome number">
       <option name="closed" value="true" />
@@ -515,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1758587330327</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="fizz buzz">
+      <option name="closed" value="true" />
+      <created>1758663588867</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1758663588867</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="longest palindrome substring" />
     <MESSAGE value="reverse integer" />
     <MESSAGE value="best time to buy and sell stock" />
     <MESSAGE value="string to integer (atoi)" />
@@ -544,6 +546,7 @@
     <MESSAGE value="number complement" />
     <MESSAGE value="isomorphic strings" />
     <MESSAGE value="reverse linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse linked list" />
+    <MESSAGE value="fizz buzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="fizz buzz" />
   </component>
 </project>
