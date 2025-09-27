@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="string matching in an array">
-      <change afterPath="$PROJECT_DIR$/find lukcy integer in an array.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="find lucky integer in an array">
+      <change afterPath="$PROJECT_DIR$/reverse words in a string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,14 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757098805986</updated>
-    </task>
-    <task id="LOCAL-00006" summary="merge two sorted lists">
-      <option name="closed" value="true" />
-      <created>1757206482386</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1757206482386</updated>
     </task>
     <task id="LOCAL-00007" summary="remove duplicates from sorted array">
       <option name="closed" value="true" />
@@ -518,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1758937777646</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="find lucky integer in an array">
+      <option name="closed" value="true" />
+      <created>1758938452396</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1758938452396</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add digits" />
     <MESSAGE value="move zeroes" />
     <MESSAGE value="letter combos of a phone number" />
     <MESSAGE value="is power of four" />
@@ -547,6 +546,7 @@
     <MESSAGE value="contains duplicates" />
     <MESSAGE value="reverse vowels of a string" />
     <MESSAGE value="string matching in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="string matching in an array" />
+    <MESSAGE value="find lucky integer in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="find lucky integer in an array" />
   </component>
 </project>
