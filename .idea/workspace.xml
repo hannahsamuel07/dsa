@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="reverse words in a string">
-      <change afterPath="$PROJECT_DIR$/palindrome linked list.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="palindrome linked list">
+      <change afterPath="$PROJECT_DIR$/to lower case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,14 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757098805986</updated>
-    </task>
-    <task id="LOCAL-00008" summary="remove element">
-      <option name="closed" value="true" />
-      <created>1757276105998</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1757276105998</updated>
     </task>
     <task id="LOCAL-00009" summary="find the index of the first occurence in a string">
       <option name="closed" value="true" />
@@ -518,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1759005930738</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="palindrome linked list">
+      <option name="closed" value="true" />
+      <created>1759006339411</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1759006339411</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="letter combos of a phone number" />
     <MESSAGE value="is power of four" />
     <MESSAGE value="reverse string" />
     <MESSAGE value="single number" />
@@ -547,6 +546,7 @@
     <MESSAGE value="string matching in an array" />
     <MESSAGE value="find lucky integer in an array" />
     <MESSAGE value="reverse words in a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse words in a string" />
+    <MESSAGE value="palindrome linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="palindrome linked list" />
   </component>
 </project>
