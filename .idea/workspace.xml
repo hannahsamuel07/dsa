@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="palindrome linked list">
-      <change afterPath="$PROJECT_DIR$/to lower case.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="to lower case">
+      <change afterPath="$PROJECT_DIR$/jewels and stones.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,14 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757098805986</updated>
-    </task>
-    <task id="LOCAL-00009" summary="find the index of the first occurence in a string">
-      <option name="closed" value="true" />
-      <created>1757276361140</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1757276361140</updated>
     </task>
     <task id="LOCAL-00010" summary="search insert position">
       <option name="closed" value="true" />
@@ -518,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1759006339411</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="to lower case">
+      <option name="closed" value="true" />
+      <created>1759192365571</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1759192365573</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="is power of four" />
     <MESSAGE value="reverse string" />
     <MESSAGE value="single number" />
     <MESSAGE value="power of two" />
@@ -547,6 +546,7 @@
     <MESSAGE value="find lucky integer in an array" />
     <MESSAGE value="reverse words in a string" />
     <MESSAGE value="palindrome linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrome linked list" />
+    <MESSAGE value="to lower case" />
+    <option name="LAST_COMMIT_MESSAGE" value="to lower case" />
   </component>
 </project>
