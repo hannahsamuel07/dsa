@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="most common word">
-      <change afterPath="$PROJECT_DIR$/monotonic array.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="monotonic array">
+      <change afterPath="$PROJECT_DIR$/unique number of occurrences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,14 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757098805986</updated>
-    </task>
-    <task id="LOCAL-00013" summary="majority element.py">
-      <option name="closed" value="true" />
-      <created>1757464126208</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1757464126208</updated>
     </task>
     <task id="LOCAL-00014" summary="score of a string">
       <option name="closed" value="true" />
@@ -517,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1759351554793</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="monotonic array">
+      <option name="closed" value="true" />
+      <created>1759352514386</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1759352514386</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="power of two" />
     <MESSAGE value="contains duplicate 2" />
     <MESSAGE value="ransom note" />
     <MESSAGE value="first unique character in a string" />
@@ -546,6 +546,7 @@
     <MESSAGE value="to lower case" />
     <MESSAGE value="jewels and stones.py" />
     <MESSAGE value="most common word" />
-    <option name="LAST_COMMIT_MESSAGE" value="most common word" />
+    <MESSAGE value="monotonic array" />
+    <option name="LAST_COMMIT_MESSAGE" value="monotonic array" />
   </component>
 </project>
