@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="unique number of occurrences">
-      <change afterPath="$PROJECT_DIR$/base 7.py" afterDir="false" />
+    <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/running sum of of 1d array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,22 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757098805986</updated>
-    </task>
-    <task id="LOCAL-00015" summary="add binary">
-      <option name="closed" value="true" />
-      <created>1757529879087</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1757529879087</updated>
-    </task>
-    <task id="LOCAL-00016" summary="add binary">
-      <option name="closed" value="true" />
-      <created>1757532491314</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1757532491314</updated>
     </task>
     <task id="LOCAL-00017" summary="sqrt(x)">
       <option name="closed" value="true" />
@@ -518,12 +502,26 @@
       <option name="project" value="LOCAL" />
       <updated>1759610368374</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="base 7">
+      <option name="closed" value="true" />
+      <created>1759708830939</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1759708830939</updated>
+    </task>
+    <task id="LOCAL-00065" summary="update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1759708848478</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1759708848478</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ransom note" />
-    <MESSAGE value="first unique character in a string" />
     <MESSAGE value="find the difference" />
     <MESSAGE value="distribute candies" />
     <MESSAGE value="keyboard row" />
@@ -547,6 +545,8 @@
     <MESSAGE value="most common word" />
     <MESSAGE value="monotonic array" />
     <MESSAGE value="unique number of occurrences" />
-    <option name="LAST_COMMIT_MESSAGE" value="unique number of occurrences" />
+    <MESSAGE value="base 7" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
 </project>
