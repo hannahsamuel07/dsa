@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/running sum of of 1d array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check if two string arrays are equivalent.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,22 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757098805986</updated>
-    </task>
-    <task id="LOCAL-00017" summary="sqrt(x)">
-      <option name="closed" value="true" />
-      <created>1757532529129</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1757532529129</updated>
-    </task>
-    <task id="LOCAL-00018" summary="remove duplicates from sorted linked list">
-      <option name="closed" value="true" />
-      <created>1757631049948</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1757631049948</updated>
     </task>
     <task id="LOCAL-00019" summary="merge sorted array">
       <option name="closed" value="true" />
@@ -518,11 +502,26 @@
       <option name="project" value="LOCAL" />
       <updated>1759708848478</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="running sum of 1d array">
+      <option name="closed" value="true" />
+      <created>1759868575109</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1759868575109</updated>
+    </task>
+    <task id="LOCAL-00067" summary="update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1759868593512</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1759868593512</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="find the difference" />
     <MESSAGE value="distribute candies" />
     <MESSAGE value="keyboard row" />
     <MESSAGE value="student attendance record I" />
@@ -546,6 +545,7 @@
     <MESSAGE value="monotonic array" />
     <MESSAGE value="unique number of occurrences" />
     <MESSAGE value="base 7" />
+    <MESSAGE value="running sum of 1d array" />
     <MESSAGE value="update workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
