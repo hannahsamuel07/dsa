@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714d1e83-39ea-4845-9b05-d1eb0f26abbd" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/check if two string arrays are equivalent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/element appearing in more than twenty-five percent in sorted array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -44,15 +45,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.add strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.majority element.executor&quot;: &quot;Run&quot;,
-    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.add strings.executor": "Run",
+    "Python.majority element.executor": "Run",
+    "Python.two_sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\reach\PycharmProjects\das+practice" />
@@ -125,22 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757098805986</updated>
-    </task>
-    <task id="LOCAL-00019" summary="merge sorted array">
-      <option name="closed" value="true" />
-      <created>1757632926746</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1757632926746</updated>
-    </task>
-    <task id="LOCAL-00020" summary="add strings">
-      <option name="closed" value="true" />
-      <created>1757636047277</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1757636047277</updated>
     </task>
     <task id="LOCAL-00021" summary="add two numbers">
       <option name="closed" value="true" />
@@ -518,11 +504,26 @@
       <option name="project" value="LOCAL" />
       <updated>1759868593512</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="check if two string arrays are equivalent">
+      <option name="closed" value="true" />
+      <created>1759976342881</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1759976342881</updated>
+    </task>
+    <task id="LOCAL-00069" summary="update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1759976355879</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1759976355879</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="distribute candies" />
     <MESSAGE value="keyboard row" />
     <MESSAGE value="student attendance record I" />
     <MESSAGE value="power of three" />
@@ -546,6 +547,7 @@
     <MESSAGE value="unique number of occurrences" />
     <MESSAGE value="base 7" />
     <MESSAGE value="running sum of 1d array" />
+    <MESSAGE value="check if two string arrays are equivalent" />
     <MESSAGE value="update workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
